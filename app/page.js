@@ -13,6 +13,7 @@ export default function Home() {
      <Link href="./week-5/" className={linkStyle}>Week-5</Link> 
      <Link href="./week-6/" className={linkStyle}>Week-6</Link> 
      <Link href="./week-7/" className={linkStyle}>Week-7</Link> 
+     <Link href="./week-8/" className={linkStyle}>Week-8</Link> 
      </div>
     </main>
   );
